@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -17,9 +19,15 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Projects
+- Notion
+- Links
 
-1. Numbered
-2. List
+1. AI
+2. CoinMarket
+3. WebApp
+4. Angular 
+5. .NET
 
 **Bold** and _Italic_ and `Code` text
 
