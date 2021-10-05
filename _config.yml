@@ -1,13 +1,20 @@
-title: Your awesome title
+title: GitHub Page Nikola Janjic 
 author: GitHub User
-email: your-email@domain.com
+email: janjicnikola@pm.me
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  Top Angular developers in Serbia and besides that, we will take care of administrative, 
+  HR, legal, and office space hassle, so you can focus on managing your newly formed team.
+  What you will most often hear from passionate Angular developers is that they enjoy working 
+  with Angular because it is really powerful front-end web framework. 
+  They say it gives you the ability to create dynamic environment. 
+  And if they as professionals say that, we will not argue.However, we can tell you that 
+  you can rely on our talent network from which we will pick the experts who will perfectly
+  fit into your company culture and product development path.You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: https://twitter.com/nikolajanjicc
+github_username:  https://github.com/nikolajanjic
 
 show_excerpts: true # set to false to remove excerpts on the homepage
